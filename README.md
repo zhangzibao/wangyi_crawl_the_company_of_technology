@@ -9,3 +9,6 @@
 > 1. 项目根目录命令行执行 pip install -r requirements.txt
 > 2. 请参考此链接完成动态爬虫所需要的插件配置 [使用Selenium进行动态爬虫](https://www.jianshu.com/p/5eeb14bc55fc "Title")
 > 3. 接着运行main.py 即可，数据保存在Article.json 中，可能部分数据有所残缺，在test/test.py 中有对其整理，最终生成data.csv 为整齐的格式数据。
+
+## 注：如果您未安装scrapy，直接安装scrapy可能会报错，如果出错了很可能因为有一个scrapy的依赖Twisted需要本地安装。项目根目录中有该依赖的本地包。
+> 本人python为3.7的版本，如果你的python不是这个版本的，请到[python第三方包下载](https://www.lfd.uci.edu/~gohlke/pythonlibs/#lxml "Title")下载对应版本的本地安装包
