@@ -1,0 +1,195 @@
+1541700349810	mozrunner::runner	INFO	Running command: "A:\\常用软件安装\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\10787\\AppData\\Local\\Temp\\rust_mozprofile.kpljlS5CKyI5"
+1541700351698	Marionette	INFO	Listening on port 60512
+1541700351934	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 19280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 19280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_[Chiwin.cld 1c, 9296li, Chrneome_Ch 34ildThre6ad]
+ WARNING[Child 9960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9960, Chrome_[Child 37048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win[Child .cc,341 li92,n Chrome_ChildThre 346e
+ad] WARNING: pip[Chile error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 34192, Chrome[Parent 3220, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1891541702101463	Marionette	INFO	Stopped listening on port 62419
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 29964, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+1541701238745	mozrunner::runner	INFO	Running command: "A:\\常用软件安装\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\10787\\AppData\\Local\\Temp\\rust_mozprofile.Dj5FgydLhb8C"
+1541701240866	Marionette	INFO	Listening on port 64049
+1541701240961	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: chrome://browser/content/urlbarBindings.xml, line 2709: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAutoCompleteController.getStyleAt]
+1541701589267	mozrunner::runner	INFO	Running command: "A:\\常用软件安装\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\10787\\AppData\\Local\\Temp\\rust_mozprofile.oYslSTHn3nHw"
+1541701591182	Marionette	INFO	Listening on port 49537
+1541701591391	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+[Parent 39116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 39116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 35552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 35552, [Child 19620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19621541701728386	mozrunner::runner	INFO	Running command: "A:\\常用软件安装\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\10787\\AppData\\Local\\Temp\\rust_mozprofile.iXykYZ0hcHSW"
+1541701730299	Marionette	INFO	Listening on port 50171
+1541701730502	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript error: http://finance.sina.com.cn/js/286/20131226/stock_list_main.js, line 102: TypeError: argData is null
+JavaScript error: http://finance.sina.com.cn/js/286/20131226/stock_list_main.js, line 102: TypeError: argData is null
+JavaScript error: chrome://marionette/content/driver.js, line 1286: TypeError: WeakMap key must be an object, got undefined
+1541701787591	Marionette	ERROR	[40] No reply from Marionette:Register
+JavaScript error: chrome://marionette/content/listener.js, line 456: TypeError: reply[0] is undefined
+1541701788437	Marionette	ERROR	[2147483655] No reply from Marionette:Register
+JavaScript error: chrome://marionette/content/listener.js, line 456: TypeError: reply[0] is undefined
+1541701788502	Marionette	ERROR	[2147483657] No reply from Marionette:Register
+JavaScript error: chrome://marionette/content/listener.js, line 456: TypeError: reply[0] is undefined
+JavaScript error: http://finance.sina.com.cn/js/286/20131226/stock_list_main.js, line 102: TypeError: argData is null
+1541701826646	addons.xpi	WARN	Failed to remove temporary file C:\Users\10787\AppData\Local\Temp\tmp-jni.xpi for addon https://addons.cdn.mozilla.net/user-media/addons/895053/xpath_finder-0.9.6-an+fx.xpi?filehash=sha256%3A451cb2c1f1d1d991bf9a51538efbdbdce22434061d5bbd193b547479d0981d9e: [Exception... "Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIFile.remove]"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: removeTemporaryFile :: line 1506"  data: no] Stack trace: removeTemporaryFile()@resource://gre/modules/addons/XPIInstall.jsm:1506
+startInstall/<()@resource://gre/modules/addons/XPIInstall.jsm:1802
+JavaScript error: moz-extension://0098ef09-61a0-4bdf-aa85-538db75a8b9c/background.js, line 12: Error: Could not establish connection. Receiving end does not exist.
+[Parent 4136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15648, Chrome_Warning: getUnicodeUrlPath failed to get a Unicode URL from?http%3A//finance.sina.com.cn/stock/usstock/sector.shtml|*|t=txt,s=%C5%A6%D4%BC%BD%BB%D2%D7%CB%F9,h=javascript%3Avoid%280%29%3B,ct=1541701753943,x=260,y=167,aid=main||*|1541701731571.892|*||*||*|2904|*|, reason: URIError: malformed URI sequenceWarning: getUnicodeUrl failed to get a Unicode URL fromhttp://beacon.sina.com.cn/b.gif?http%3A//finance.sina.com.cn/stock/usstock/sector.shtml|*|t=txt,s=%C5%A6%D4%BC%BD%BB%D2%D7%CB%F9,h=javascript%3Avoid%280%29%3B,ct=1541701753943,x=260,y=167,aid=main||*|1541701731571.892|*||*||*|2904|*|, reason: URIError: malformed URI sequenceWarning: getUnicodeUrlPath failed to get a Unicode URL from?http%3A//finance.sina.com.cn/stock/usstock/sector.shtml|*|t=txt,s=%C8%AB%B2%BF%BD%BB%D2%D7%CB%F9,h=javascript%3Avoid%280%29%3B,ct=1541701754728,x=198,y=164,aid=main|t=txt,s=%C4%C9%CB%B9%B4%EF%BF%CB%BD%BB%D2%D7%CB%F9,h=javascript%3Avoid%280%29%3B,ct=1541701760798,x=380,y=162,aid=main||*|1541701731571.892|*||*||*|2904|*|, reason: URIError: malformed URI sequenceWarning: getUnicodeUrl failed to get a Unicode URL fromhttp://beacon.sina.com.cn/b.gif?http%3A//finance.sina.com.cn/stock/usstock/sector.shtml|*|t=txt,s=%C8%AB%B2%BF%BD%BB%D2%D7%CB%F9,h=javascript%3Avoid%280%29%3B,ct=1541701754728,x=198,y=164,aid=main|t=txt,s=%C4%C9%CB%B9%B4%EF%BF%CB%BD%BB%D2%D7%CB%F9,h=javascript%3Avoid%280%29%3B,ct=1541701760798,x=380,y=162,aid=main||*|1541701731571.892|*||*||*|2904|*|, reason: URIError: malformed URI sequenceJavaScript warning: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 79ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+JavaScript error: http://finance.sina.com.cn/js/286/20131226/stock_list_main.js, line 102: TypeError: argData is null
+Warning: getUnicodeUrlPath failed to get a Unicode URL from?http%3A//finance.sina.com.cn/stock/usstock/sector.shtml|*|t=txt,s=%C5%A6%D4%BC%BD%BB%D2%D7%CB%F9,h=javascript%3Avoid%280%29%3B,ct=1541701753943,x=260,y=167,aid=main||*|1541701731571.892|*||*||*|2904|*|, reason: URIError: malformed URI sequenceWarning: getUnicodeUrl failed to get a Unicode URL fromhttp://beacon.sina.com.cn/b.gif?http%3A//finance.sina.com.cn/stock/usstock/sector.shtml|*|t=txt,s=%C5%A6%D4%BC%BD%BB%D2%D7%CB%F9,h=javascript%3Avoid%280%29%3B,ct=1541701753943,x=260,y=167,aid=main||*|1541701731571.892|*||*||*|2904|*|, reason: URIError: malformed URI sequenceWarning: getUnicodeUrlPath failed to get a Unicode URL from?http%3A//finance.sina.com.cn/stock/usstock/sector.shtml|*|t=txt,s=%C8%AB%B2%BF%BD%BB%D2%D7%CB%F9,h=javascript%3Avoid%280%29%3B,ct=1541701754728,x=198,y=164,aid=main|t=txt,s=%C4%C9%CB%B9%B4%EF%BF%CB%BD%BB%D2%D7%CB%F9,h=javascript%3Avoid%280%29%3B,ct=1541701760798,x=380,y=162,aid=main||*|1541701731571.892|*||*||*|2904|*|, reason: URIError: malformed URI sequenceWarning: getUnicodeUrl failed to get a Unicode URL fromhttp://beacon.sina.com.cn/b.gif?http%3A//finance.sina.com.cn/stock/usstock/sector.shtml|*|t=txt,s=%C8%AB%B2%BF%BD%BB%D2%D7%CB%F9,h=javascript%3Avoid%280%29%3B,ct=1541701754728,x=198,y=164,aid=main|t=txt,s=%C4%C9%CB%B9%B4%EF%BF%CB%BD%BB%D2%D7%CB%F9,h=javascript%3Avoid%280%29%3B,ct=1541701760798,x=380,y=162,aid=main||*|1541701731571.892|*||*||*|2904|*|, reason: URIError: malformed URI sequence[Child 27820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 27820, CJavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: , line 0: TypeError: can't access dead object
+JavaScript error: http://finance.sina.com.cn/js/286/20131226/stock_list_main.js, line 102: TypeError: argData is null
+JavaScript error: http://finance.sina.com.cn/js/286/20131226/stock_list_main.js, line 102: TypeError: argData is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: (new TypeError("event is undefined", "resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/telemetry.js", 628))
+JavaScript error: http://finance.sina.com.cn/js/286/20131226/stock_list_main.js, line 102: TypeError: argData is null
+[Parent 4136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25292, Chrome_ChildThread] WARNING: pipe error:
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+ 109: file z:/build/buil
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000BB,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+d/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3680, Chrom[e_ChildCThread] hWARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3680, Chrome_[Child 7772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[Child 36496, Chrome_ChildThread] WARNI
+NG: pipe erro[Child 7r772: 10[9: file z:/Chilbd 34628, Chrome_ChildThread] WARNuild/build/src/ipc/chromIium/sNG: piprc/chrome/coemmon/ipc _channel_wein.cc, line 346rror: 109: f
+ile z:/build/[Child 36496build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 34[Parent 4136, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1541702099018	Marionette	INFO	Stopped listening on port 50171
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1541702122900	mozrunner::runner	INFO	Running command: "A:\\常用软件安装\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\10787\\AppData\\Local\\Temp\\rust_mozprofile.rAv03qjW20qH"
+1541702124720	Marionette	INFO	Listening on port 52062
+1541702125017	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+1541702286278	addons.xpi	WARN	Failed to remove temporary file C:\Users\10787\AppData\Local\Temp\tmp-n33.xpi for addon https://addons.mozilla.org/firefox/downloads/file/1059888/xpath_finder-0.9.6-an+fx.xpi?src=dp-btn-primary: [Exception... "Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIFile.remove]"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: removeTemporaryFile :: line 1506"  data: no] Stack trace: removeTemporaryFile()@resource://gre/modules/addons/XPIInstall.jsm:1506
+startInstall/<()@resource://gre/modules/addons/XPIInstall.jsm:1802
+[Parent 33108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19696, Chrome_Chil[Child 26752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26752, C[Parent 33108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541702291314	Marionette	INFO	Stopped listening on port 52062
+[GPU 27256, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1541702497952	mozrunner::runner	INFO	Running command: "A:\\常用软件安装\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\10787\\AppData\\Local\\Temp\\rust_mozprofile.AOK9S0WG8GZn"
+1541702499947	Marionette	INFO	Listening on port 54056
+1541702500079	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+console.error: "TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5\n_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5\nWalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:414:7\n"
+TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5
+_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5
+WalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:414:7
+
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 30312, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4152, Chrome_[Child 21796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21796, Chrom[Parent 30312, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18400, Chrome_Ch1541702611699	Marionette	INFO	Stopped listening on port 54056
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 13728, Chrome_Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1541702615858	mozrunner::runner	INFO	Running command: "A:\\常用软件安装\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\10787\\AppData\\Local\\Temp\\rust_mozprofile.9i0Akg426s0h"
+1541702617782	Marionette	INFO	Listening on port 54724
+1541702617982	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+1541702695091	mozrunner::runner	INFO	Running command: "A:\\常用软件安装\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\10787\\AppData\\Local\\Temp\\rust_mozprofile.4HPKeOkmPtgq"
+1541702697056	Marionette	INFO	Listening on port 55146
+1541702697209	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+1541711882260	mozrunner::runner	INFO	Running command: "A:\\常用软件安装\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\10787\\AppData\\Local\\Temp\\rust_mozprofile.LZNwuYOG6ENF"
+1541711884122	Marionette	INFO	Listening on port 62500
+1541711884381	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+[Parent 9620, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[P[Child 8416, Chromearent 962_ChildT0h,r eGaed] WARNING: pipe ercko_IOThror: 109: file z:/bruild/build/src/ipce/ad] WARNING: pipe error: 109: chrofile z:/build/mium/src/chbroume/ild/src/icommopc/cn/iphromic_channeum/src/chrome/cl_wiommon/in.cc, lpc_channel_win.cine 346c, li
+ne 346
+[Child 5736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5736[Parent 9620, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 9620, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 49296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 49296, Chrome_ChildThr1541711890471	Marionette	INFO	Stopped listening on port 62500
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 8972, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1541711918120	mozrunner::runner	INFO	Running command: "A:\\常用软件安装\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\10787\\AppData\\Local\\Temp\\rust_mozprofile.e0ZyUdrnDAsp"
+1541711919860	Marionette	INFO	Listening on port 62769
+1541711920233	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+[Child 9844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_[Parenct 31hannel_win.cc, line 346008,
+ Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3484, Chro[Parent 31008, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 38552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 38552, 1541711925181	Marionette	INFO	Stopped listening on port 62769
+[GPU 3406
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
