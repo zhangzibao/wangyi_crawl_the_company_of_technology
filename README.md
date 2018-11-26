@@ -1,4 +1,4 @@
-# xinlang_crawl_the_company_of_technology
+# xinlang_crawl_the_company_of_technology 11月11日 01:51
 ## 本爬虫用于爬取新浪财经网上美股之科技板块排名前60的上市公司
 
 新浪财经网有点机灵，表格数据是动态的，直接爬取是无法获得，因此使用了selenium，即web自动化测试这个插件，配合火狐浏览器模拟真实的浏览器操作，从而得到数据。
